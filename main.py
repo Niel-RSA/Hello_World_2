@@ -9,6 +9,8 @@ computer_name = str(platform.node())
 print(f"Hello {name}")
 print(f"My name is: {computer_name}")
 print("Nice to meet you")
-
+print(":)")
 #TODO
 #Add more comments
+#Like this one
+#Also this one
